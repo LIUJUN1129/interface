@@ -1,0 +1,5 @@
+#LJ
+
+
+class OperationMysql:
+    pass
